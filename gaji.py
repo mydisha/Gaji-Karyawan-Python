@@ -1,8 +1,8 @@
 #|===================================|
-#|Aplikasi Penggajian Python		 |
-#|Coded by : Dias Taufik Rahman	 	 |
-#|Mail : mydisha@hacker-newbie.org	 |
-#|Universitas Gunadarma			 	 |
+#|Aplikasi Penggajian Python	     |
+#|Coded by : Dias Taufik Rahman	     |
+#|Mail : mydisha@hacker-newbie.org   |
+#|Universitas Gunadarma		     |
 #|===================================|
 import os
 import sys
