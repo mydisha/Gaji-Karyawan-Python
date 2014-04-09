@@ -7,6 +7,7 @@ Versi 1.0
 - Rilis Pertama
 
 Versi 1.0a
-- Perubahan algoritma
-- Penyederhanaan fungsi
-- Error Handling
+- Perubahan Algoritma
+- Penyederhanaan Pada Fungsi Kalkulasi Gaji
+- Error Handling Pada Fungsi Pemilihan Menu
+- Perubahan Tampilan Output
